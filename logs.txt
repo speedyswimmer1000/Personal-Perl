@@ -1,0 +1,306 @@
+12/5/2012 :     Day Change: $150.28    Total Net: $-4,206.05  Total Invested: -	
+12/6/2012 :     Day Change: $285.86    Total Net: $-3,920.19  Total Invested: -	  Avg_gain: 285.86
+12/6/2012 :     Day Change: $392.41    Total Net: $-3,813.64  Total Invested: -	  Avg_gain: 392.41
+12/7/2012 :     Day Change: $136.81    Total Net: $-3,676.83  Total Invested: -	  Avg_gain: 264.61
+12/10/2012 :    Day Change: $245.10    Total Net: $-3,431.73  Total Invested: -	  Avg_gain: 154.86
+12/11/2012 :    Day Change: $259.46    Total Net: $-3,172.27  Total Invested: -	  Avg_gain: 172.30
+12/12/2012 :    Day Change: $78.28     Total Net: $-3,093.99  Total Invested: -	  Avg_gain: 158.87
+12/28/2012 :    Day Change: $-172.63   Total Net: $-3,266.62  Total Invested: -	  Avg_gain: 40.84
+1/3/2013 :      Day Change: $1,255.35  Total Net: $-2,011.27  Total Invested: -	  Avg_gain: 75.68
+1/8/2013 :      Day Change: $31.82     Total Net: $-1,979.45  Total Invested: -	  Avg_gain: 65.49
+1/9/2013 :      Day Change: $338.31    Total Net: $-1,641.14  Total Invested: -	  Avg_gain: 73.28
+1/10/2013 :     Day Change: $169.48    Total Net: $-1,471.66  Total Invested: -	  Avg_gain: 75.96
+1/11/2013 :     Day Change: $-60.01    Total Net: $-1,531.67  Total Invested: -	  Avg_gain: 72.28
+1/14/2013 :     Day Change: $55.39     Total Net: $-1,476.28  Total Invested: -	  Avg_gain: 68.24
+1/15/2013 :     Day Change: $-151.19   Total Net: $-1,627.47  Total Invested: -	  Avg_gain: 62.89
+1/16/2013 :     Day Change: $135.77    Total Net: $-1,491.70  Total Invested: -	  Avg_gain: 64.63
+1/17/2013 :     Day Change: $367.77    Total Net: $-1,123.93  Total Invested: -	  Avg_gain: 71.68
+1/22/2013 :     Day Change: $-525.08   Total Net: $-1,649.01  Total Invested: -	  Avg_gain: 53.27
+1/23/2013 :     Day Change: $-83.12    Total Net: $-1,732.13  Total Invested: -	  Avg_gain: 50.49
+1/28/2013 :     Day Change: $92.14     Total Net: $-1,639.99  Total Invested: -	  Avg_gain: 47.52
+1/29/2013 :     Day Change: $172.42    Total Net: $-1,467.57  Total Invested: -	  Avg_gain: 49.79
+2/1/2013 :      Day Change: $259.15    Total Net: $-1,208.42  Total Invested: -	  Avg_gain: 51.68
+2/4/2013 :      Day Change: $130.60    Total Net: $-1,077.82  Total Invested: -	  Avg_gain: 51.28
+2/5/2013 :      Day Change: $76.90     Total Net: $-1,000.92  Total Invested: -	  Avg_gain: 51.70
+2/6/2013 :      Day Change: $-8.88     Total Net: $-1,009.80  Total Invested: -	  Avg_gain: 50.73
+2/8/2013 :      Day Change: $448.64    Total Net: $-561.16    Total Invested: -	  Avg_gain: 56.08
+2/11/2013 : 	Day Change: $21.30 	   Total Net: $-539.86    Total Invested: -	  Avg_gain: 53.91
+2/12/2013 : 	Day Change: $195.30    Total Net: $-344.56    Total Invested: -	  Avg_gain: 55.96
+2/13/2013 : 	Day Change: $19		   Total Net: $-325.01    Total Invested: -	  Avg_gain: 55.44
+2/14/2013 : 	Day Change: $59.20	   Total Net: $-265.81    Total Invested: -	  Avg_gain: 55.50
+2/15/2013 : 	Day Change: $-170.80   Total Net: $-528.41    Total Invested: -	  Avg_gain: 51.08
+2/18/2013 : 	Day Change: $0		   Total Net: $-528.41    Total Invested: -	  Avg_gain: 49.04
+2/19/2013 : 	Day Change: $-95.10	   Total Net: $-623.51    Total Invested: -	  Avg_gain: 47.14
+2/21/2013 : 	Day Change: $-1197.80  Total Net: $-1821.31   Total Invested: -	  Avg_gain: 30.57
+2/26/2013 : 	Day Change: $-483.40   Total Net: $-2304.71   Total Invested: -	  Avg_gain: 22.91
+2/27/2013 : 	Day Change: $501.02	   Total Net: $-1803.69   Total Invested: -	  Avg_gain: 28.60
+2/28/2013 : 	Day Change: $-431.14   Total Net: $-2234.83   Total Invested: -	  Avg_gain: 23.19
+3/1/2013 :  	Day Change: $-271.36   Total Net: $-2506.19   Total Invested: -	  Avg_gain: 19.77
+3/4/2013 : 	    Day Change: $346.93	   Total Net: $-2159.26   Total Invested: -	  Avg_gain: 23.00
+3/5/2013 :  	Day Change: $386.95	   Total Net: $-1772.31   Total Invested: -	  Avg_gain: 27.04
+3/6/2013 :  	Day Change: $130.67	   Total Net: $-1641.64   Total Invested: -	  Avg_gain: 28.18
+3/7/2013 :  	Day Change: $-174.25   Total Net: $-1815.89   Total Invested: -	  Avg_gain: 25.98
+3/8/2013 :  	Day Change: $129.31    Total Net: $-1686.58   Total Invested: -	  Avg_gain: 27.09
+3/11/2013 : 	Day Change: $49.38	   Total Net: $-1637.20   Total Invested: -	  Avg_gain: 26.76
+3/12/2013 : 	Day Change: $-246.01	Total Net: $-1883.21  Total Invested: -	  Avg_gain: 23.95
+3/13/2013 :     Day Change: $-114.56    Total Net: $-1997.77  Total Invested: -	  Avg_gain: 22.53
+3/14/2013 :     Day Change: $288.81     Total Net: $-1708.96  Total Invested: -	  Avg_gain: 25.22
+3/15/2013 :     Day Change: $-121.56    Total Net: $-1830.52  Total Invested: -	  Avg_gain: 23.76
+3/18/2013 :     Day Change: $165.49     Total Net: $-1665.03  Total Invested: -	  Avg_gain: 24.67
+3/19/2013 :     Day Change: $364.00     Total Net: $-1301.03  Total Invested: -	  Avg_gain: 27.93
+3/20/2013 :     Day Change: $150.19     Total Net: $-1150.84  Total Invested: -	  Avg_gain: 29.10
+3/21/2013 :     Day Change: $-533.81    Total Net: $-1684.65  Total Invested: -	  Avg_gain: 23.79
+3/22/2013 :     Day Change: $-61.75     Total Net: $-1746.40  Total Invested: -	  Avg_gain: 22.99
+3/25/2013 :     Day Change: $60.68      Total Net: $-1685.72  Total Invested: -	  Avg_gain: 22.91
+3/26/2013 :     Day Change: $146.44     Total Net: $-1539.28  Total Invested: -	  Avg_gain: 24.02
+3/27/2013 :     Day Change: $-282.07    Total Net: $-1821.35  Total Invested: -	  Avg_gain: 21.29
+3/28/2013 :     Day Change: $-225.93    Total Net: $-2047.28  Total Invested: -	  Avg_gain: 19.10
+3/29/2013 :     Day Change: $-0.00      Total Net: $-2047.28  Total Invested: -	  Avg_gain: 18.94
+4/1/2013 :      Day Change: $-20.31     Total Net: $-2067.59  Total Invested: -	  Avg_gain: 18.28
+4/2/2013 :      Day Change: $-86.25     Total Net: $-2153.84  Total Invested: -	  Avg_gain: 17.39
+4/3/2013 :      Day Change: $772.36     Total Net: $-1381.48  Total Invested: -	  Avg_gain: 23.74
+4/4/2013 :      Day Change: $-125.58    Total Net: $-1507.06  Total Invested: -	  Avg_gain: 22.49
+4/5/2013 :      Day Change: $-146.44    Total Net: $-1653.50  Total Invested: -	  Avg_gain: 21.10
+4/8/2013 :      Day Change: $591.30     Total Net: $-1062.20  Total Invested: -	  Avg_gain: 25.35
+4/9/2013 :      Day Change: $360.31     Total Net: $-701.89   Total Invested: -	  Avg_gain: 28.03
+4/9/2013 :      Day Change: $0.00       Total Net: $-701.89   Total Invested: -	  Avg_gain: 28.03
+4/10/2013 :     Day Change: $272.94     Total Net: $-428.95   Total Invested: -	  Avg_gain: 29.98
+4/11/2013 :     Day Change: $76.57      Total Net: $-352.38   Total Invested: -	  Avg_gain: 30.34
+4/12/2013 :     Day Change: $-418.21    Total Net: $-770.59   Total Invested: -	  Avg_gain: 26.84
+4/15/2013 :     Day Change: $-405.07    Total Net: $-1175.66  Total Invested: -	  Avg_gain: 23.13
+4/16/2013 :     Day Change: $311.63     Total Net: $-864.03   Total Invested: -	  Avg_gain: 25.32
+4/17/2013 :     Day Change: $-1109.08   Total Net: $-1973.11  Total Invested: -	  Avg_gain: 16.79
+4/18/2013 :     Day Change: $-418.69    Total Net: $-2391.80  Total Invested: -	  Avg_gain: 13.54
+4/19/2013 :     Day Change: $-177.44    Total Net: $-2569.24  Total Invested: -	  Avg_gain: 12.12
+4/22/2013 :     Day Change: $449.44     Total Net: $-2119.80  Total Invested: -	  Avg_gain: 15.12
+4/23/2013 :     Day Change: $945.15     Total Net: $-1174.65  Total Invested: -	  Avg_gain: 21.81
+4/24/2013 :     Day Change: $455.56     Total Net: $-719.09   Total Invested: -	  Avg_gain: 24.91
+4/25/2013 :     Day Change: $443.26     Total Net: $-275.83   Total Invested: -	  Avg_gain: 27.87
+4/26/2013 :     Day Change: $-87.19     Total Net: $-363.02   Total Invested: -	  Avg_gain: 27.06
+4/29/2013 :     Day Change: $516.75     Total Net: $153.73    Total Invested: -	  Avg_gain: 30.07
+4/30/2013 :     Day Change: $169.07     Total Net: $322.80    Total Invested: -	  Avg_gain: 31.02
+5/1/2013 :      Day Change: $-193.19    Total Net: $129.61    Total Invested: -	  Avg_gain: 29.49
+5/2/2013 :      Day Change: $-417.74    Total Net: $-288.13   Total Invested: -	  Avg_gain: 26.47
+5/3/2013 :      Day Change: $155.81     Total Net: $-132.32   Total Invested: -	  Avg_gain: 27.34
+5/6/2013 :      Day Change: $385.94     Total Net: $253.62    Total Invested: -	  Avg_gain: 29.34
+5/7/2013 :      Day Change: $175.44     Total Net: $429.06    Total Invested: -	  Avg_gain: 30.29
+5/8/2013 :      Day Change: $211.88     Total Net: $640.94    Total Invested: -	  Avg_gain: 31.47
+5/10/2013 :     Day Change: $-74.62     Total Net: $566.32    Total Invested: -	  Avg_gain: 30.59
+5/13/2013 :     Day Change: $-85.94     Total Net: $480.38    Total Invested: -	  Avg_gain: 29.47
+5/14/2013 :     Day Change: $-195.26    Total Net: $285.12    Total Invested: -	  Avg_gain: 28.07
+5/15/2013 :     Day Change: $22.07      Total Net: $307.19    Total Invested: -	  Avg_gain: 28.03
+5/16/2013 :     Day Change: $-60.63     Total Net: $246.56    Total Invested: -	  Avg_gain: 27.49
+5/17/2013 :     Day Change: $446.01     Total Net: $589.72    Total Invested: -	  Avg_gain: 29.42
+5/20/2013 :     Day Change: $332.92     Total Net: $922.64    Total Invested: -	  Avg_gain: 30.90
+5/21/2013 :     Day Change: $214.50     Total Net: $1137.14   Total Invested: -	  Avg_gain: 32.00
+5/22/2013 :     Day Change: $-774.44    Total Net: $362.70    Total Invested: -	  Avg_gain: 27.19
+5/23/2013 :     Day Change: $-32.52     Total Net: $330.18    Total Invested: -	  Avg_gain: 26.84
+5/24/2013 :     Day Change: $-313.81    Total Net: $16.37     Total Invested: -	  Avg_gain: 24.84
+5/28/2013 :     Day Change: $129.87     Total Net: $146.24    Total Invested: -	  Avg_gain: 25.01
+5/29/2013 :     Day Change: $-81.14     Total Net: $65.10     Total Invested: -	  Avg_gain: 24.41
+5/30/2013 :     Day Change: $170.95     Total Net: $236.05    Total Invested: -	  Avg_gain: 25.24
+5/31/2013 : 	Day Change: $-229.16	Total Net: $6.89      Total Invested: -	  Avg_gain: 23.80
+6/3/2013 : 		Day Change: $775.69	    Total Net: $782.58    Total Invested: -	  Avg_gain: 27.71
+6/4/2013 :  	Day Change: $523.26		Total Net: $1305.84   Total Invested: -	  Avg_gain: 30.45
+6/5/2013 :  	Day Change: $-488.73	Total Net: $817.11    Total Invested: $22147.47  Avg_gain: 27.60
+6/6/2013 :  	Day Change: $-55.65		Total Net: $761.46    Total Invested: $22091.82  Avg_gain: 27.14
+6/10/2013 : 	Day Change: $-57.43		Total Net: $704.03	  Total Invested: $27441.34  Avg_gain: 26.26
+6/11/2013 : 	Day Change: $-483.47	Total Net: $220.56	  Total Invested: $27467.87  Avg_gain: 23.55
+6/12/2013 : 	Day Change: $-144.00	Total Net: $76.56	  Total Invested: $27323.87  Avg_gain: 22.66
+6/13/2013 : 	Day Change: $660.88		Total Net: $737.44	Total Invested: $27984.75  Avg_gain: 26.02
+6/17/2013 : 	Day Change: $140.29		Total Net: $877.73	Total Invested: $27254.49  Avg_gain: 26.21
+6/18/2013 : 	Day Change: $-10.19		Total Net: $867.54	Total Invested: $27644.30  Avg_gain: 26.02
+6/19/2013 : 	Day Change: $-347.03	Total Net: $520.51	Total Invested: $27297.27  Avg_gain: 24.12
+6/20/2013 : 	Day Change: $-885.62	Total Net: $-365.11	Total Invested: $26411.65  Avg_gain: 19.50
+6/21/2013 : 	Day Change: $209.04		Total Net: $-156.07	Total Invested: $24027.64  Avg_gain: 20.45
+6/24/2013 : 	Day Change: $-549.98	Total Net: $-706.05	Total Invested: $23477.66  Avg_gain: 17.41
+6/25/2013 : 	Day Change: $249.80		Total Net: $-456.25	Total Invested: $23727.46  Avg_gain: 18.56
+6/26/2013 :		Day Change: $219.19		Total Net: $-237.06	Total Invested: $24330.10  Avg_gain: 19.55
+6/27/2013 : 	Day Change: $466.84		Total Net: $229.78	Total Invested: $24790.44  Avg_gain: 21.74
+6/28/2013 : 	Day Change: $-257.05	Total Net: $-27.27	Total Invested: $24533.39  Avg_gain: 20.38
+7/1/2013 : 		Day Change: $-75.61		Total Net: $-102.88	Total Invested: $26984.73  Avg_gain: 19.73
+7/2/2013 : 		Day Change: $243.59		Total Net: $140.71	Total Invested: $27628.34  Avg_gain: 20.80
+7/3/2013 : 		Day Change: $734.02		Total Net: $874.73	Total Invested: $25321.29  Avg_gain: 24.19
+7/5/2013 : 		Day Change: $276.46		Total Net: $1151.19	Total Invested: $25597.75  Avg_gain: 25.27
+7/8/2013 : 		Day Change: $-465.84	Total Net: $685.35	Total Invested: $25131.91  Avg_gain: 22.75
+7/9/2013 : 		Day Change: $-92.56		Total Net: $592.79	Total Invested: $27571.30  Avg_gain: 22.22
+7/10/2013 : 	Day Change: $120.61		Total Net: $713.40	Total Invested: $27691.91  Avg_gain: 22.67
+7/11/2013 : 	Day Change: $249.95		Total Net: $963.35	Total Invested: $27941.86  Avg_gain: 23.71
+7/12/2013 : 	Day Change: $156.84		Total Net: $1120.19	Total Invested: $28098.70  Avg_gain: 24.32
+7/15/2013 : 	Day Change: $51.47		Total Net: $1171.66	Total Invested: $28150.17  Avg_gain: 24.22
+7/16/2013 : 	Day Change: $51.43	 	Total Net: $1223.09	Total Invested: $28631.60  Avg_gain: 24.35
+7/17/2013 : 	Day Change: $486.82		Total Net: $1709.91	Total Invested: $29118.42  Avg_gain: 26.41
+7/18/2013 : 	Day Change: $136.45		Total Net: $1846.36	Total Invested: $29254.87  Avg_gain: 26.90  
+7/19/2013 : 	Day Change: $223.06		Total Net: $2069.42	Total Invested: $29477.93  Avg_gain: 27.77 
+7/22/2013 : 	Day Change: $404.12		Total Net: $2473.54	Total Invested: $29882.05	Avg_gain: 29.04
+7/23/2013 : 	Day Change: $-1076.15	Total Net: $1397.39	Total Invested: $29740.53	Avg_gain: 24.36
+7/24/2013 : 	Day Change: $-369.93	Total Net: $1027.46	Total Invested: $29370.60	Avg_gain: 22.66
+7/25/2013 : 	Day Change: $-102.04	Total Net: $925.42	Total Invested: $29268.56	Avg_gain: 22.12
+7/26/2013 : 	Day Change: $-139.97	Total Net: $785.45	Total Invested: $29128.60	Avg_gain: 21.42
+7/29/2013 : 	Day Change: $-684.75	Total Net: $100.70	Total Invested: $28443.85	Avg_gain: 18.24
+7/30/2013 : 	Day Change: $257.29		Total Net: $357.99	Total Invested: $29101.13	Avg_gain: 19.25
+7/31/2013 : 	Day Change: $-117.19	Total Net: $240.80	Total Invested: $29423.39	Avg_gain: 18.68
+8/1/2013 : 	Day Change: $505.92		Total Net: $746.72	Total Invested: $29929.31	Avg_gain: 20.72
+8/2/2013 : 	Day Change: $119.92		Total Net: $866.64	Total Invested: $24194.09	Avg_gain: 21.13
+8/5/2013 : 	Day Change: $-160.39	Total Net: $706.25	Total Invested: $24033.69	Avg_gain: 20.21
+8/6/2013 : 	Day Change: $-429.33	Total Net: $276.92	Total Invested: $24004.36	Avg_gain: 18.37
+8/7/2013 : 	Day Change: $-56.17		Total Net: $220.76	Total Invested: $23948.20	Avg_gain: 18.07
+8/8/2013 : 	Day Change: $-75.36		Total Net: $145.40	Total Invested: $23872.84	Avg_gain: 17.69
+8/9/2013 : 	Day Change: $-349.03	Total Net: $-203.63	Total Invested: $23523.81	Avg_gain: 16.20
+8/12/2013 : 	Day Change: $69.54	Total Net: $-134.09
+8/13/2013 : 	Day Change: $74.94	Total Net: $-59.15
+8/14/2013 : 	Day Change: $139.62	Total Net: $80.47
+8/15/2013 : 	Day Change: $-403.38	Total Net: $-322.91
+8/16/2013 : 	Day Change: $-750.21	Total Net: $-1,073.12
+8/19/2013 : 	Day Change: $-253.72	Total Net: $-1,326.84
+8/20/2013 : 	Day Change: $422.4	Total Net: $-904.44
+
+9/05/2013 : 	Day Change: $655.10	Total Net: $451.47	Total Invested: $28469.76	Avg_gain: 16.75
+9/6/2013 :	Day Change: $290.67	Total Net: $740.87	Total Invested: $28759.16	Avg_gain: 17.40
+9/9/2013 :	Day Change: $31.31	Total Net: $772.18	Total Invested: $28784.23	Avg_gain: 17.91
+9/10/2013 : 	Day Change: $473.10	Total Net: $1213.97	Total Invested: $29232.26	Avg_gain: 19.42
+9/11/2013 : 	Day Change: $-786.00	Total Net: $427.97	Total Invested: $28446.26	Avg_gain: 16.55
+9/12/2013 : 	Day Change: $365.01	Total Net: $792.98	Total Invested: $28811.27	Avg_gain: 17.79
+9/13/2013 : 	Day Change: $151.02	Total Net: $944.00	Total Invested: $29511.99	Avg_gain: 18.26
+9/16/2013 : 	Day Change: $350.26	Total Net: $1294.26	Total Invested: $29862.25	Avg_gain: 19.29
+9/17/2013 : 	Day Change: $140.25	Total Net: $1434.51	Total Invested: $30002.50	Avg_gain: 19.72
+9/18/2013 : 	Day Change: $317.72	Total Net: $1752.23	Total Invested: $30320.22	Avg_gain: 20.76
+9/19/2013 : 	Day Change: $-67.73	Total Net: $1684.50	Total Invested: $30252.49	Avg_gain: 20.45
+9/20/2013 : 	Day Change: $-434.19	Total Net: $1250.31	Total Invested: $29804.24	Avg_gain: 18.88
+9/23/2013 : 	Day Change: $-0.56	Total Net: $1249.74	Total Invested: $29803.67	Avg_gain: 18.68
+9/24/2013 : 	Day Change: $372.50	Total Net: $1622.24	Total Invested: $30176.17	Avg_gain: 19.89
+9/25/2013 : 	Day Change: $186.88	Total Net: $1809.12	Total Invested: $30377.11	Avg_gain: 20.45
+9/26/2013 : 	Day Change: $276.43	Total Net: $2085.55	Total Invested: $30653.54	Avg_gain: 21.32
+9/27/2013 : 	Day Change: $41.59	Total Net: $2127.15	Total Invested: $30695.14	Avg_gain: 21.39
+9/30/2013 : 	Day Change: $-233.39	Total Net: $1893.76	Total Invested: $30461.75	Avg_gain: 20.40
+10/01/2013 : 	Day Change: $394.58	Total Net: $2288.34	Total Invested: $30856.33	Avg_gain: 21.64
+10/02/2013 : 	Day Change: $-93.85	Total Net: $2194.49	Total Invested: $30762.48	Avg_gain: 21.26
+10/03/2013 : 	Day Change: $-583.76	Total Net: $1610.73	Total Invested: $30178.72	Avg_gain: 19.26
+10/04/2013 : 	Day Change: $28.26	Total Net: $1638.99	Total Invested: $30206.98	Avg_gain: 19.29
+10/07/2013 : 	Day Change: $7.29	Total Net: $1646.29	Total Invested: $30214.28	Avg_gain: 19.12
+10/08/2013 : 	Day Change: $-390.11	Total Net: $1256.18	Total Invested: $29824.17	Avg_gain: 17.79
+10/09/2013 : 	Day Change: $-428.25	Total Net: $827.93	Total Invested: $29395.92	Avg_gain: 16.34
+10/10/2013 : 	Day Change: $326.46	Total Net: $1154.39	Total Invested: $29722.38	Avg_gain: 17.34
+10/11/2013 : 	Day Change: $363.20	Total Net: $1517.59	Total Invested: $30085.58	Avg_gain: 18.46
+10/14/2013 : 	Day Change: $328.77	Total Net: $1846.36	Total Invested: $30414.35	Avg_gain: 19.33
+10/15/2013 : 	Day Change: $660.70	Total Net: $2507.06	Total Invested: $28132.00	Avg_gain: 21.37
+10/16/2013 : 	Day Change: $44.36	Total Net: $2551.43	Total Invested: $28176.37	Avg_gain: 21.45	Percent_gain_year: %15.20
+10/17/2013 : 	Day Change: $155.36	Total Net: $2706.79	Total Invested: $28331.73	Avg_gain: 21.87	Percent_gain_year: %15.72
+10/18/2013 : 	Day Change: $164.60	Total Net: $2871.39	Total Invested: $27882.47	Avg_gain: 22.25	Percent_gain_year: %16.27
+10/21/2013 : 	Day Change: $81.53	Total Net: $2952.92	Total Invested: $27964.00	Avg_gain: 22.37	Percent_gain_year: %16.54
+10/22/2013 : 	Day Change: $811.67	Total Net: $3764.59	Total Invested: $29175.67	Avg_gain: 21.52	Percent_gain_year: %19.25
+10/23/2013 : 	Day Change: $-1040.02	Total Net: $2724.57	Total Invested: $19108.72	Avg_gain: 21.22	Percent_gain_year: %15.78
+10/24/2013 : 	Day Change: $-287.69	Total Net: $2436.88	Total Invested: $18821.03	Avg_gain: 20.56	Percent_gain_year: %14.82
+10/25/2013 : 	Day Change: $-159.57	Total Net: $2277.31	Total Invested: $18661.46	Avg_gain: 20.01	Percent_gain_year: %14.29
+10/28/2013 : 	Day Change: $112.81	Total Net: $2390.12	Total Invested: $18774.27	Avg_gain: 20.17	Percent_gain_year: %14.67
+10/29/2013 : 	Day Change: $283.39	Total Net: $2673.51	Total Invested: $19057.66	Avg_gain: 20.97	Percent_gain_year: %15.61
+10/30/2013 : 	Day Change: $-232.21	Total Net: $2441.30	Total Invested: $18825.45	Avg_gain: 20.20	Percent_gain_year: %14.84
+10/31/2013 : 	Day Change: $-42.42	Total Net: $2398.88	Total Invested: $18783.03	Avg_gain: 20.01	Percent_gain_year: %14.70
+11/01/2013 : 	Day Change: $236.02	Total Net: $2634.90	Total Invested: $19019.05	Avg_gain: 20.66	Percent_gain_year: %15.48
+11/04/2013 : 	Day Change: $121.18	Total Net: $2756.08	Total Invested: $19140.23	Avg_gain: 20.84	Percent_gain_year: %15.89
+11/05/2013 : 	Day Change: $-197.25	Total Net: $2558.83	Total Invested: $18942.98	Avg_gain: 20.19	Percent_gain_year: %15.23
+11/06/2013 : 	Day Change: $68.55	Total Net: $2627.39	Total Invested: $19011.54	Avg_gain: 20.33	Percent_gain_year: %15.46
+11/07/2013 : 	Day Change: $-424.44	Total Net: $2202.95	Total Invested: $18587.10	Avg_gain: 19.01	Percent_gain_year: %14.04
+11/08/2013 : 	Day Change: $138.73	Total Net: $2341.68	Total Invested: $18725.83	Avg_gain: 19.37	Percent_gain_year: %14.50
+11/11/2013 : 	Day Change: $53.71	Total Net: $2395.39	Total Invested: $21286.29	Avg_gain: 19.35	Percent_gain_year: %14.68
+11/12/2013 : 	Day Change: $-466.30	Total Net: $1929.09	Total Invested: $22170.94	Avg_gain: 17.93	Percent_gain_year: %13.13
+11/13/2013 : 	Day Change: $608.33	Total Net: $2537.42	Total Invested: $22779.27	Avg_gain: 19.66	Percent_gain_year: %15.16
+11/14/2013 : 	Day Change: $-478.17	Total Net: $2059.25	Total Invested: $22301.10	Avg_gain: 18.21	Percent_gain_year: %13.56
+11/15/2013 : 	Day Change: $48.13	Total Net: $2107.39	Total Invested: $22349.24	Avg_gain: 16.79	Percent_gain_year: %12.22
+11/19/2013 : 	Day Change: $-346.34	Total Net: $1761.05	Total Invested: $25969.85	Avg_gain: 17.09	Percent_gain_year: %12.57
+11/20/2013 : 	Day Change: $-58.55	Total Net: $1702.49	Total Invested: $25911.29	Avg_gain: 16.88	Percent_gain_year: %12.37
+11/21/2013 : 	Day Change: $192.01	Total Net: $1894.50	Total Invested: $26103.30	Avg_gain: 17.38	Percent_gain_year: %13.01
+11/22/2013 : 	Day Change: $-94.59	Total Net: $1799.90	Total Invested: $26008.70	Avg_gain: 17.06	Percent_gain_year: %12.70
+11/24/2013 : 	Day Change: $0.00	Total Net: $1799.90	Total Invested: $26008.70	Avg_gain: 16.96	Percent_gain_year: %12.70
+11/25/2013 : 	Day Change: $181.67	Total Net: $1981.57	Total Invested: $26190.37	Avg_gain: 17.42	Percent_gain_year: %13.30
+11/26/2013 : 	Day Change: $883.78	Total Net: $2865.35	Total Invested: $27074.15	Avg_gain: 19.86	Percent_gain_year: %16.25
+11/27/2013 : 	Day Change: $231.16	Total Net: $3096.51	Total Invested: $27305.31	Avg_gain: 19.86	Percent_gain_year: %16.25
+11/29/2013 : 	Day Change: $-254.97	Total Net: $2841.55	Total Invested: $27050.35	Avg_gain: 17.41	Percent_gain_year: %16.22
+12/01/2013 : 	Day Change: $-0.13	Total Net: $2841.42	Total Invested: $27050.22	Avg_gain: 19.52	Percent_gain_year: %16.17
+12/02/2013 : 	Day Change: $-278.85	Total Net: $2562.57	Total Invested: $26771.37	Avg_gain: 18.69	Percent_gain_year: %15.24
+12/03/2013 : 	Day Change: $-74.30	Total Net: $2488.26	Total Invested: $27447.06	Avg_gain: 18.44	Percent_gain_year: %14.99
+12/04/2013 : 	Day Change: $400.44	Total Net: $2888.70	Total Invested: $27847.50	Avg_gain: 19.49	Percent_gain_year: %16.33
+12/05/2013 : 	Day Change: $-333.63	Total Net: $2555.07	Total Invested: $27513.87	Avg_gain: 18.52	Percent_gain_year: %15.22
+12/06/2013 : 	Day Change: $-111.54	Total Net: $2443.53	Total Invested: $27402.33	Avg_gain: 18.16	Percent_gain_year: %14.84
+12/09/2013 : 	Day Change: $-327.41	Total Net: $2116.12	Total Invested: $27074.92	Avg_gain: 17.13	Percent_gain_year: %13.75
+12/11/2013 : 	Day Change: $-218.08	Total Net: $1898.04	Total Invested: $26856.84	Avg_gain: 16.45	Percent_gain_year: %13.03
+12/12/2013 : 	Day Change: $-199.83	Total Net: $1698.21	Total Invested: $26657.01	Avg_gain: 15.87	Percent_gain_year: %12.36
+12/13/2013 : 	Day Change: $-332.64	Total Net: $1365.57	Total Invested: $26324.37	Avg_gain: 14.93	Percent_gain_year: %11.25
+12/15/2013 : 	Day Change: $0.00	Total Net: $1365.57	Total Invested: $26324.37	Avg_gain: 14.85	Percent_gain_year: %11.25
+12/16/2013 : 	Day Change: $226.55	Total Net: $1592.12	Total Invested: $26550.92	Avg_gain: 15.42	Percent_gain_year: %12.01
+12/17/2013 : 	Day Change: $-31.44	Total Net: $1560.67	Total Invested: $27269.47	Avg_gain: 15.29	Percent_gain_year: %11.90
+12/18/2013 : 	Day Change: $263.06	Total Net: $1823.73	Total Invested: $27532.53	Avg_gain: 15.95	Percent_gain_year: %12.78
+12/19/2013 : 	Day Change: $-91.30	Total Net: $1732.42	Total Invested: $27441.22	Avg_gain: 15.66	Percent_gain_year: %12.47
+12/20/2013 : 	Day Change: $420.31	Total Net: $2152.73	Total Invested: $27861.53	Avg_gain: 16.73	Percent_gain_year: %13.88
+12/23/2013 : 	Day Change: $670.22	Total Net: $2822.95	Total Invested: $28531.75	Avg_gain: 18.35	Percent_gain_year: %16.11
+12/24/2013 : 	Day Change: $11.18	Total Net: $2834.13	Total Invested: $28542.93	Avg_gain: 18.33	Percent_gain_year: %16.15
+12/26/2013 : 	Day Change: $201.78	Total Net: $3035.91	Total Invested: $28744.71	Avg_gain: 18.76	Percent_gain_year: %16.82
+12/27/2013 : 	Day Change: $-50.57	Total Net: $2985.33	Total Invested: $28694.13	Avg_gain: 18.58	Percent_gain_year: %16.65
+12/30/2013 : 	Day Change: $19.86	Total Net: $3005.19	Total Invested: $28713.99	Avg_gain: 18.49	Percent_gain_year: %16.72
+12/31/2013 : 	Day Change: $-34.04	Total Net: $2971.15	Total Invested: $28679.95	Avg_gain: 18.35	Percent_gain_year: %16.60
+1/02/2014 : 	Day Change: $-329.03	Total Net: $2642.12	Total Invested: $28350.92	Avg_gain: 17.42	Percent_gain_year: %15.51
+1/03/2014 : 	Day Change: $808.20	Total Net: $3450.32	Total Invested: $29159.12	Avg_gain: 19.43	Percent_gain_year: %1.59
+1/06/2014 : 	Day Change: $76.25	Total Net: $3526.58	Total Invested: $29235.38	Avg_gain: 19.47	Percent_gain_year: %1.85
+1/07/2014 : 	Day Change: $172.82	Total Net: $3699.40	Total Invested: $29408.20	Avg_gain: 19.86	Percent_gain_year: %2.42
+1/08/2014 : 	Day Change: $2040.74	Total Net: $5740.14	Total Invested: $25724.05	Avg_gain: 24.92	Percent_gain_year: %9.22
+1/09/2014 : 	Day Change: $-253.01	Total Net: $5487.13	Total Invested: $25471.04	Avg_gain: 24.23	Percent_gain_year: %8.38
+1/10/2014 : 	Day Change: $501.57	Total Net: $5988.70	Total Invested: $25972.61	Avg_gain: 25.42	Percent_gain_year: %10.05
+1/13/2014 : 	Day Change: $276.02	Total Net: $6264.72	Total Invested: $26248.63	Avg_gain: 25.91	Percent_gain_year: %10.97
+1/14/2014 : 	Day Change: $314.04	Total Net: $6578.76	Total Invested: $27612.67	Avg_gain: 26.62	Percent_gain_year: %12.02
+1/15/2014 : 	Day Change: $131.88	Total Net: $6710.64	Total Invested: $27744.55	Avg_gain: 26.88	Percent_gain_year: %12.46
+1/16/2014 : 	Day Change: $-247.82	Total Net: $6462.82	Total Invested: $27496.73	Avg_gain: 26.21	Percent_gain_year: %11.63
+1/17/2014 : 	Day Change: $-457.24	Total Net: $6005.58	Total Invested: $27039.49	Avg_gain: 25.02	Percent_gain_year: %10.11
+1/21/2014 : 	Day Change: $-24.86	Total Net: $5980.71	Total Invested: $28064.62	Avg_gain: 24.72	Percent_gain_year: %10.03
+1/22/2014 : 	Day Change: $330.96	Total Net: $6311.67	Total Invested: $28395.58	Avg_gain: 25.46	Percent_gain_year: %11.13
+1/23/2014 : 	Day Change: $-166.90	Total Net: $6144.77	Total Invested: $28228.68	Avg_gain: 25.00	Percent_gain_year: %10.57
+1/24/2014 : 	Day Change: $-754.02	Total Net: $5390.75	Total Invested: $27474.66	Avg_gain: 23.12	Percent_gain_year: %8.06
+1/27/2014 :	Day Change: $-89.51	Total Net: $5301.25	Total Invested: $27385.16	
+1/28/2014 : 	Day Change: $601.68	Total Net: $5902.93	Total Invested: $29036.84	Avg_gain: 24.12	Percent_gain_year: %9.77
+1/29/2014 : 	Day Change: $-21.36	Total Net: $5881.56	Total Invested: $29015.47	Avg_gain: 24.01	Percent_gain_year: %9.70
+1/30/2014 : 	Day Change: $407.29	Total Net: $6288.86	Total Invested: $29422.77	Avg_gain: 24.92	Percent_gain_year: %11.05
+1/31/2014 : 	Day Change: $-305.58	Total Net: $5983.27	Total Invested: $29117.18	Avg_gain: 24.14	Percent_gain_year: %10.04
+2/03/2014 : 	Day Change: $-909.70	Total Net: $5073.57	Total Invested: $28207.48	Avg_gain: 21.83	Percent_gain_year: %7.00
+2/04/2014 : 	Day Change: $565.18	Total Net: $5638.75	Total Invested: $28772.66	Avg_gain: 23.10	Percent_gain_year: %8.89
+2/05/2014 : 	Day Change: $-121.12	Total Net: $5517.63	Total Invested: $28651.54	Avg_gain: 22.77	Percent_gain_year: %8.48
+2/06/2014 : 	Day Change: $613.96	Total Net: $6131.59	Total Invested: $29265.50	Avg_gain: 24.15	Percent_gain_year: %10.53
+2/07/2014 : 	Day Change: $511.73	Total Net: $6643.32	Total Invested: $29777.23	Avg_gain: 25.28	Percent_gain_year: %12.24
+2/10/2014 : 	Day Change: $-70.80	Total Net: $6572.51	Total Invested: $29706.42	Avg_gain: 24.95	Percent_gain_year: %12.00
+2/11/2014 : 	Day Change: $113.46	Total Net: $6685.97	Total Invested: $29819.88	Avg_gain: 25.15	Percent_gain_year: %12.38
+2/18/2014 : 	Day Change: $-	Total Net: $7091.34	Total Invested: $30225.25	
+2/19/2014 : 	Day Change: $-	Total Net: $6531.04	Total Invested: $29664.95
+2/21/2014 : 	Day Change: $-	Total Net: $6413.46	Total Invested: $29546.80	
+2/24/2014 : 	Day Change: $-	Total Net: $6646.88	Total Invested: $29780.79
+2/25/2014 : 	Day Change: $-	Total Net: $6444.89	Total Invested: $29578.80	
+2/26/2014 : 	Day Change: $-	Total Net: $7153.79	Total Invested: $30287.69
+2/27/2014 : 	Day Change: $-	Total Net: $6951.02	Total Invested: $30084.92	
+2/28/2014 : 	Day Change: $-	Total Net: $7112.90	Total Invested: $30246.81
+3/03/2014 : 	Day Change: $-	Total Net: $6966.88	Total Invested: $30100.78	
+3/04/2014 : 	Day Change: $-	Total Net: $7667.26	Total Invested: $30801.17	
+3/05/2014 : 	Day Change: $-	Total Net: $8068.34	Total Invested: $31202.24	
+3/06/2014 : 	Day Change: $-	Total Net: $8507.26	Total Invested: $31641.17	
+3/07/2014 : 	Day Change: $-	Total Net: $8231.38	Total Invested: $31365.28	
+3/11/2014 : 	Day Change: $-	Total Net: $7836.50	Total Invested: $30970.41	
+3/12/2014 : 	Day Change: $-	Total Net: $7918.10	Total Invested: $31052.01
+3/15/2014 : 	Day Change: $-	Total Net: $7488.41	Total Invested: $30622.32
+3/18/2014 : 	Day Change: $-	Total Net: $7811.25	Total Invested: $30945.15
+6/12/2014 : 	Day Change: $-923.17	Total Net: $6888.08	Total Invested: $15285.68	Avg_gain: 20.02	Percent_gain_year: 13.05%
+6/13/2014 : 	Day Change: $29.60	Total Net: $6917.68	Total Invested: $15315.28	Avg_gain: 20.04	Percent_gain_year: 13.15%
+6/16/2014 : 	Day Change: $-190.96	Total Net: $6726.72	Total Invested: $15124.32	Avg_gain: 19.59	Percent_gain_year: 12.51%
+6/17/2014 : 	Day Change: $428.20	Total Net: $7154.92	Total Invested: $16252.52	Avg_gain: 20.32	Percent_gain_year: 13.94%
+6/18/2014 : 	Day Change: $-148.47	Total Net: $7006.45	Total Invested: $18923.50	Avg_gain: 20.02	Percent_gain_year: 13.45%
+6/19/2014 : 	Day Change: $-29.59	Total Net: $6976.85	Total Invested: $18893.90	Avg_gain: 19.93	Percent_gain_year: 13.35%
+6/20/2014 : 	Day Change: $6.86	Total Net: $6983.72	Total Invested: $18900.77	Avg_gain: 19.91	Percent_gain_year: 13.37%
+6/23/2014 : 	Day Change: $-13.32	Total Net: $6970.39	Total Invested: $18887.44	Avg_gain: 19.78	Percent_gain_year: 13.33%
+6/24/2014 : 	Day Change: $-80.49	Total Net: $6889.90	Total Invested: $19506.95	Avg_gain: 19.30	Percent_gain_year: 13.23%
+6/25/2014 : 	Day Change: $166.43	Total Net: $7056.33	Total Invested: $19673.38	Avg_gain: 19.86	Percent_gain_year: 13.61%
+6/26/2014 : 	Day Change: $-352.49	Total Net: $6703.84	Total Invested: $19320.89	Avg_gain: 19.20	Percent_gain_year: 12.44%
+6/27/2014 : 	Day Change: $135.88	Total Net: $6839.72	Total Invested: $22171.22	Avg_gain: 19.41	Percent_gain_year: 12.89%
+6/30/2014 : 	Day Change: $345.33	Total Net: $7185.05	Total Invested: $22516.55	Avg_gain: 19.91	Percent_gain_year: 14.04%
+7/01/2014 : 	Day Change: $-115.19	Total Net: $7069.86	Total Invested: $22401.36	Avg_gain: 19.67	Percent_gain_year: 13.66%
+7/02/2014 : 	Day Change: $-72.36	Total Net: $6997.49	Total Invested: $22328.99	Avg_gain: 19.51	Percent_gain_year: 13.42%
+7/03/2014 : 	Day Change: $-100.53	Total Net: $6896.96	Total Invested: $22228.46	Avg_gain: 19.30	Percent_gain_year: 13.08%
+7/07/2014 : 	Day Change: $-128.97	Total Net: $6767.99	Total Invested: $22799.49	Avg_gain: 18.95	Percent_gain_year: 12.65%
+7/08/2014 : 	Day Change: $-574.69	Total Net: $6193.30	Total Invested: $22224.80	Avg_gain: 17.92	Percent_gain_year: 10.74%s
+7/09/2014 : 	Day Change: $-4.92	Total Net: $6188.38	Total Invested: $22919.88	Avg_gain: 17.89	Percent_gain_year: 10.72%
+7/10/2014 : 	Day Change: $-277.61	Total Net: $5910.77	Total Invested: $22642.27	Avg_gain: 17.38	Percent_gain_year: 9.79%
+7/14/2014 : 	Day Change: $-0.38	Total Net: $5910.39	Total Invested: $22641.89	Avg_gain: 17.26	Percent_gain_year: 9.79%
