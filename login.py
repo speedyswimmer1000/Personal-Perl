@@ -9,6 +9,7 @@ browser = mechanize.Browser()
 browser.set_handle_robots(False)
 
 ##### SHAREBUILDER HISTORY FETCH #####
+# Test 
 
 share_url = 'https://www.sharebuilder.com/sharebuilder/authentication/signin.aspx'
 browser.open(share_url)
