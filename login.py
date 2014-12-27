@@ -17,7 +17,7 @@ share_pass = password_file.read()
 share_url = 'https://www.sharebuilder.com/sharebuilder/authentication/signin.aspx'
 browser.open(share_url)
 
-share_hist_file = str(sys.argv[1]) #tmp2		#Although tmp is a good name - it guarantees that there's nothing there you want to keep.
+share_hist_file = 'tmp1' #str(sys.argv[1]) #tmp2		#Although tmp is a good name - it guarantees that there's nothing there you want to keep.
 
 print browser.title()
 form = browser.forms().next()  #Get the form
