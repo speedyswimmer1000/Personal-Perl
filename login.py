@@ -1,6 +1,6 @@
 #! /usr/bin/python
 
-import mechanize, cookielib
+import mechanize
 import httplib, urllib2
 import sys
 from time import sleep
@@ -11,6 +11,9 @@ browser.set_handle_robots(False)
 ##### SHAREBUILDER HISTORY FETCH #####
 # Test 
 
+password_file = open('passwords','r')
+share_pass = password_file.read()
+
 share_url = 'https://www.sharebuilder.com/sharebuilder/authentication/signin.aspx'
 browser.open(share_url)
 
@@ -20,7 +23,8 @@ print browser.title()
 form = browser.forms().next()  #Get the form
 #print form  -- Useful for finding if the form field names have changed.
 form['ctl00$ctl00$MainContent$MainContent$ucView$c$views$c$ucUsername$txtUsername']="swimmer1000"
-form['ctl00$ctl00$MainContent$MainContent$ucView$c$views$c$ucUsername$txtPassword']="******** ADD IN CODE HERE " 
+form['ctl00$ctl00$MainContent$MainContent$ucView$c$views$c$ucUsername$txtPassword']=share_pass
+print form['ctl00$ctl00$MainContent$MainContent$ucView$c$views$c$ucUsername$txtPassword']
 browser.form = form  #Give the filled in form back to the browser
 browser.submit()
 print browser.title()
